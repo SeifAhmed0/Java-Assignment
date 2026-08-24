@@ -24,7 +24,7 @@ public class NumberAnalyzer {
     }
 
     // Method 1 Definition
-    /*
+    /**
      * loops through the numbers from 1 to 10 then prints them descendingly
      */
     public static void printNumbersDescending(){
@@ -34,7 +34,7 @@ public class NumberAnalyzer {
     }
 
     // Method 2 Definition
-    /*
+    /**
      * loops through the numbers from 1 to 10 then prints the even ones labeled by Even and odd ones labeled by Odd sequentially
      */
     public static void printEvenOrOdd(){
@@ -48,7 +48,7 @@ public class NumberAnalyzer {
     }
 
     // Method 3 Definition
-    /*
+    /**
      * Checks if the inserted number is Positive, Negative, or Zero
      *
      * @param number the given number to be checked
@@ -65,7 +65,7 @@ public class NumberAnalyzer {
     }
 
     // Method 4 Definition
-    /*
+    /**
      * Calculates the sum of two given numbers
      *
      * @param number1 the first given number
